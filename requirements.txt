@@ -1,0 +1,6 @@
+colorama
+fire
+numpy
+opencv-python
+six
+termcolor
