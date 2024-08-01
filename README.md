@@ -1,2 +1,2 @@
 # RTSBruter_Luis
-Bruter fro RTSP
+Bruter for RTSP
