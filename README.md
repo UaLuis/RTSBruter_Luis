@@ -3,7 +3,7 @@ Bruter for RTSP
 
 Use:
 
-1. ```git clone https://github.com/UaLuis/RTSPBruter_Luis.git && cd RTSBruter_Luis```
+1. ```git clone https://github.com/UaLuis/RTSPScanner.git && cd RTSPScanner```
 2. ```pip3 install -r requirements.txt```
 3. ```sudo chmod +x rtspscan.sh```
 4. Make a file target.txt with IP or IP range
